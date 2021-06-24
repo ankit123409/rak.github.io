@@ -1,0 +1,31 @@
+body{
+background-color: black;
+}
+h1{
+	color: white;
+	text-align: center;
+}
+font{
+	color: white;
+	font-size:20px;
+}
+p{
+	color: green;
+	background-color: black;
+	font-size: 20px;
+}
+h2{
+	color: green;
+	font-size: 20px
+}
+ul{
+	color: white;
+	display: block;
+}
+li{
+	font-size: 20px;
+	color: white;
+}
+h3{
+	color: green;
+}

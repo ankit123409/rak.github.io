@@ -1,0 +1,51 @@
+body{
+	padding: 0;
+	margin: 0;
+	text-align: ;
+	background-size: cover;
+	background-image: url(3.jpg);
+
+}
+nav{
+	background-color: black;
+}
+h1{
+	font-size: 30px;
+	text-align: center;
+	color: green;
+	border-bottom: 2px solid black;
+}
+ul{
+	height: 50px;
+	color: red;
+	text-align: center;
+}
+li{
+	display: block;
+	float:left;
+	padding: 0 40px;
+}
+button{
+	height: 40px;
+	width: 90px;
+	color: #00ff49;
+	background-color: red;
+	border: 2px solid black
+}
+h2{
+	font-size: 120px;
+	font-weight: bold;
+	text-align: center;
+}
+p{
+	font-size: 100px;
+	font-weight: bold;
+	text-align: center;
+}
+main{
+
+}
+footer{
+	height: 60px;
+	background-color: black;
+}
